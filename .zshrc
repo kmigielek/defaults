@@ -11,3 +11,6 @@ source $ZSH/oh-my-zsh.sh
 alias u='sudo apt update -y && sudo apt upgrade -y'
 alias e='exit'
 alias s='shutdown now'
+
+#macos aliases
+alias updatedb='sudo /usr/libexec/locate.updatedb'
